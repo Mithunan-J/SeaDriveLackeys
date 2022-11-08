@@ -13,6 +13,7 @@ public class Frame : MonoBehaviour
     public List<string> choiceTexts;
     public bool useSlideSwitch = false;
     public AudioClip _clip;
+    public bool playRumble = false;
     // Start is called before the first frame update
     void Start()
     {

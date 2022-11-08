@@ -171,6 +171,15 @@ public class VN_Controller : MonoBehaviour
         {
             SoundManager.instance.PlaySoundEffect(currentFrame._clip);
         }
+        else
+        {
+            SoundManager.instance.GetComponent<AudioSource>().Stop();
+        }
+        if(currentFrame.playRumble == true)
+        {
+            Animator animator = GameObject.Find("controllerV2").GetComponent<Animator>();
+            animator.SetTrigger("rumble");
+        }
         background.sprite = currentFrameSprite;
     }
 

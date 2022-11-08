@@ -200,6 +200,7 @@ MonoBehaviour:
   choiceTexts: []
   useSlideSwitch: 0
   _clip: {fileID: 0}
+  playRumble: 0
 --- !u!4 &93707137
 Transform:
   m_ObjectHideFlags: 0
@@ -1027,6 +1028,7 @@ MonoBehaviour:
   choiceTexts: []
   useSlideSwitch: 0
   _clip: {fileID: 0}
+  playRumble: 0
 --- !u!4 &480716670
 Transform:
   m_ObjectHideFlags: 0
@@ -1738,6 +1740,7 @@ MonoBehaviour:
   choiceTexts: []
   useSlideSwitch: 0
   _clip: {fileID: 0}
+  playRumble: 0
 --- !u!4 &872095818
 Transform:
   m_ObjectHideFlags: 0
@@ -1829,6 +1832,7 @@ MonoBehaviour:
   choiceTexts: []
   useSlideSwitch: 1
   _clip: {fileID: 0}
+  playRumble: 0
 --- !u!4 &914968719
 Transform:
   m_ObjectHideFlags: 0
@@ -2004,6 +2008,7 @@ MonoBehaviour:
   choiceTexts: []
   useSlideSwitch: 0
   _clip: {fileID: 0}
+  playRumble: 0
 --- !u!4 &983167334
 Transform:
   m_ObjectHideFlags: 0
@@ -2374,6 +2379,7 @@ MonoBehaviour:
   choiceTexts: []
   useSlideSwitch: 0
   _clip: {fileID: 0}
+  playRumble: 0
 --- !u!4 &1000919954
 Transform:
   m_ObjectHideFlags: 0
@@ -2428,6 +2434,7 @@ MonoBehaviour:
   choiceTexts: []
   useSlideSwitch: 0
   _clip: {fileID: 0}
+  playRumble: 0
 --- !u!4 &1042426411
 Transform:
   m_ObjectHideFlags: 0
@@ -2482,6 +2489,7 @@ MonoBehaviour:
   choiceTexts: []
   useSlideSwitch: 1
   _clip: {fileID: 0}
+  playRumble: 1
 --- !u!4 &1053869786
 Transform:
   m_ObjectHideFlags: 0
@@ -2760,6 +2768,7 @@ MonoBehaviour:
   choiceTexts: []
   useSlideSwitch: 0
   _clip: {fileID: 0}
+  playRumble: 0
 --- !u!4 &1080745972
 Transform:
   m_ObjectHideFlags: 0
@@ -3020,6 +3029,7 @@ MonoBehaviour:
   choiceTexts: []
   useSlideSwitch: 0
   _clip: {fileID: 0}
+  playRumble: 0
 --- !u!4 &1097608660
 Transform:
   m_ObjectHideFlags: 0
@@ -3378,6 +3388,7 @@ MonoBehaviour:
   choiceTexts: []
   useSlideSwitch: 0
   _clip: {fileID: 0}
+  playRumble: 0
 --- !u!4 &1329308582
 Transform:
   m_ObjectHideFlags: 0
@@ -3542,6 +3553,7 @@ MonoBehaviour:
   choiceTexts: []
   useSlideSwitch: 0
   _clip: {fileID: 0}
+  playRumble: 0
 --- !u!4 &1560140445
 Transform:
   m_ObjectHideFlags: 0
@@ -3632,6 +3644,7 @@ MonoBehaviour:
   choiceTexts: []
   useSlideSwitch: 0
   _clip: {fileID: 0}
+  playRumble: 0
 --- !u!4 &1656764425
 Transform:
   m_ObjectHideFlags: 0
@@ -3753,6 +3766,7 @@ MonoBehaviour:
   choiceTexts: []
   useSlideSwitch: 0
   _clip: {fileID: 0}
+  playRumble: 0
 --- !u!4 &1679264076
 Transform:
   m_ObjectHideFlags: 0
@@ -4020,6 +4034,7 @@ MonoBehaviour:
   choiceTexts: []
   useSlideSwitch: 0
   _clip: {fileID: 8300000, guid: 99a1123851aaf8d49a57b4afc0760f5d, type: 3}
+  playRumble: 0
 --- !u!4 &1833016249
 Transform:
   m_ObjectHideFlags: 0
@@ -4218,6 +4233,7 @@ MonoBehaviour:
   choiceTexts: []
   useSlideSwitch: 0
   _clip: {fileID: 0}
+  playRumble: 1
 --- !u!4 &2027398564
 Transform:
   m_ObjectHideFlags: 0
@@ -4271,7 +4287,8 @@ MonoBehaviour:
   choice3Text: I thought you guys forgot my birthday!
   choiceTexts: []
   useSlideSwitch: 0
-  _clip: {fileID: 0}
+  _clip: {fileID: 8300000, guid: 74d6e78fa6d00974da5237292dcbee80, type: 3}
+  playRumble: 0
 --- !u!4 &2033727420
 Transform:
   m_ObjectHideFlags: 0
