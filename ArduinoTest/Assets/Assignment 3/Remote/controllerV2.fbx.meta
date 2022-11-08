@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 50c892458228d444ca6c0a5af18333a5
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: 3068924450580815622
+    second: Body1.064|FORWARD
+  - first:
+      74: 7052990087661200552
+    second: Body1.064|MENU
+  - first:
+      74: -2744863251081683270
+    second: Body1.064|OK
+  - first:
+      74: -1351822794784393346
+    second: Body1.064|POTENTIOMETER
+  - first:
+      74: 1879899556362959158
+    second: Body1.064|REVERSE
+  - first:
+      74: 4204559698150458221
+    second: Body1.064|SWITCH
+  - first:
+      74: 3863174511276803865
+    second: Body1.066|FORWARD
+  - first:
+      74: -6454778091109343357
+    second: Body1.066|MENU
+  - first:
+      74: -5826693722147477675
+    second: Body1.066|OK
+  - first:
+      74: 501108670380930461
+    second: Body1.066|POTENTIOMETER
+  - first:
+      74: 2339451731656724486
+    second: Body1.066|REVERSE
+  - first:
+      74: 7508443148431266523
+    second: Body1.066|SWITCH
+  - first:
+      74: -4520829386734134639
+    second: Body1.068|FORWARD
+  - first:
+      74: -7853940831544283816
+    second: Body1.068|MENU
+  - first:
+      74: 4632900526312491093
+    second: Body1.068|OK
+  - first:
+      74: -1124582350028350182
+    second: Body1.068|POTENTIOMETER
+  - first:
+      74: -2116470376331487769
+    second: Body1.068|REVERSE
+  - first:
+      74: -2069065677311287861
+    second: Body1.068|SWITCH
+  - first:
+      74: -4199508180288134071
+    second: Body1.070|FORWARD
+  - first:
+      74: -7023117979985221301
+    second: Body1.070|MENU
+  - first:
+      74: -5667170960770368161
+    second: Body1.070|OK
+  - first:
+      74: 3810076604823659722
+    second: Body1.070|POTENTIOMETER
+  - first:
+      74: 2890268396119007671
+    second: Body1.070|REVERSE
+  - first:
+      74: 3725056285725774482
+    second: Body1.070|SWITCH
+  - first:
+      74: -6746070195801980487
+    second: Body1.072|FORWARD
+  - first:
+      74: 6931509734725890048
+    second: Body1.072|MENU
+  - first:
+      74: 4262802742933209998
+    second: Body1.072|OK
+  - first:
+      74: -8639977077906472250
+    second: Body1.072|POTENTIOMETER
+  - first:
+      74: 7257178867463347797
+    second: Body1.072|REVERSE
+  - first:
+      74: -7882515562440050052
+    second: Body1.072|SWITCH
+  - first:
+      74: 4964837573890445183
+    second: Body3.015|FORWARD
+  - first:
+      74: 609075560289582562
+    second: Body3.015|MENU
+  - first:
+      74: 3143966255703046270
+    second: Body3.015|OK
+  - first:
+      74: -141549935019715731
+    second: Body3.015|POTENTIOMETER
+  - first:
+      74: 477499890525654528
+    second: Body3.015|REVERSE
+  - first:
+      74: -7974661480371596824
+    second: Body3.015|SWITCH
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
