@@ -25,6 +25,7 @@ The exe is a release in this repo (it is the MithunanBearBirthdayBuild.zip)
 -----------------------------------
 
 Visual Novel Controls:
+
 Left click on buttons and switch to use
 
 Hold left click and drag on potentiometer to choose dialogue option
