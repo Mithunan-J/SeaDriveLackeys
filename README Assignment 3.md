@@ -19,6 +19,7 @@ TinkerCAD Simulation (on its own): https://youtu.be/X7vYX1GuCUw
 -----------------------------------
 
 Unity project is the ArduinoTest folder
+The exe is a release in this repo (it is the MithunanBearBirthdayBuild.zip)
 
 -----------------------------------
 
