@@ -8,8 +8,19 @@ Assignment 3
 
 Video Report Link: https://youtu.be/waRImuqRt9Y
 
+-----------------------------------
+
+*The slicer video and tinkerCAD videos are already in the main video report, but here are links of them are their own:
+
+Slicer Video (on its own): https://youtu.be/_8kTr5kGv1I
+
+TinkerCAD Simulation (on its own): https://youtu.be/X7vYX1GuCUw
+
+-----------------------------------
 
 Unity project is the ArduinoTest folder
+
+-----------------------------------
 
 Visual Novel Controls:
 Left click on buttons and switch to use
