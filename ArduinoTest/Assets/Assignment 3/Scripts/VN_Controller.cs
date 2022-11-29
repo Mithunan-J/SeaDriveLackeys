@@ -177,7 +177,7 @@ public class VN_Controller : MonoBehaviour
         }
         if(currentFrame.playRumble == true)
         {
-            Animator animator = GameObject.Find("controllerV2").GetComponent<Animator>();
+            Animator animator = GameObject.Find("FinalRemoteAnimated").GetComponent<Animator>();
             animator.SetTrigger("rumble");
         }
         background.sprite = currentFrameSprite;

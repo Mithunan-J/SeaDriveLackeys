@@ -1,11 +1,11 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//Manages player inputs. When a player presses a button on the remote, the input is processed here and the resulting output is calculated and returned.
 public class ControllerInput : MonoBehaviour
 {
-    public Animator animator;
-    public VN_Controller vn_controller;
+    public Animator animator; //animator for the remote push buttons
+    public VN_Controller vn_controller; //can be found on the vn_canvas gameobject
     bool switchOn = false;
     float slideSwitchPoseLeftX = 0f;
     float slideSwitchPoseRightX = -0.02738123f;
@@ -15,8 +15,8 @@ public class ControllerInput : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        animator = GameObject.Find("controllerV2").GetComponent<Animator>();
-        vn_controller = GameObject.Find("VN_Canvas").GetComponent<VN_Controller>();
+        animator = GameObject.Find("FinalRemoteAnimated").GetComponent<Animator>(); //the animator component is attached to the remote model imported from Fusion
+        vn_controller = GameObject.Find("VN_Canvas").GetComponent<VN_Controller>(); //VN_Canvas is the canvas which has the visual novel
     }
 
     // Update is called once per frame
@@ -34,7 +34,7 @@ public class ControllerInput : MonoBehaviour
             case "OK_Button":
                 if(vn_controller.paused == false)
                 {
-                    animator.SetTrigger("ok_pushed");
+                    animator.SetTrigger("ok_button");
                     LED_Controller.instance.InterationLED();
                     if (vn_controller.currentFrame.CanProceed() == true)
                     {
@@ -45,13 +45,13 @@ public class ControllerInput : MonoBehaviour
             case "Menu_Button":
                 vn_controller.paused = !vn_controller.paused;
                 pauseMenu.SetActive(vn_controller.paused);
-                animator.SetTrigger("menu_pushed");
+                animator.SetTrigger("menu_button");
                 LED_Controller.instance.InterationLED();
                 break;
             case "Rewind_Button":
                 if(vn_controller.paused == false)
                 {
-                    animator.SetTrigger("reverse_pushed");
+                    animator.SetTrigger("rewind_button");
                     LED_Controller.instance.InterationLED();
                     //vn_controller.PreviousFrame();
                     vn_controller.Rewind();
@@ -60,7 +60,7 @@ public class ControllerInput : MonoBehaviour
             case "FastForward_Button":
                 if(vn_controller.paused == false)
                 {
-                    animator.SetTrigger("forward_pushed");
+                    animator.SetTrigger("fastforward_button");
                     LED_Controller.instance.InterationLED();
                     vn_controller.FastForward();
                 }                
