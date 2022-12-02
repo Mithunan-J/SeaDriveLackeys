@@ -14,3 +14,5 @@ In this folder you will find:
 + Fusion 360 Bill of Materials - "Fusion360_BillOfMaterial_ExplodedView.pdf"
 + TinkerCAD video: https://www.youtube.com/watch?v=X7vYX1GuCUw
 + Final Project Video link: https://youtu.be/8iJrTPG6EKI
++ QFD - "QFD template_VNController.xlsx"
++ SUS - "sus.xlsx"
