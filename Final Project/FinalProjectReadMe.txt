@@ -7,3 +7,4 @@ Exploded View Animation - "Final Controller Exploded Animation.mp4"
 TinkerCAD Bill of Materials and Schematics - "TinkerCAD Bill Of Materials and Schematics.pdf"
 Report - "Report_One-handed Visual Novel Controller.pdf"
 Fusion 360 Bill of Materials - "Fusion360_BillOfMaterial_ExplodedView.pdf"
+TinkerCAD video: https://www.youtube.com/watch?v=X7vYX1GuCUw
